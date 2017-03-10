@@ -4,6 +4,10 @@
 
 **Live URL:** https://vascodagama.herokuapp.com/
 
+## Technologies:
+
+Pyramid, Scrapy
+
 ## Getting Started:
 ```
 - cd <directory containing this file>
